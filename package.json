@@ -2,7 +2,7 @@
     "name": "nrs",
     "version": "1.0.0",
     "description": "vjezba6",
-    "main": "primjer2.js",
+    "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
